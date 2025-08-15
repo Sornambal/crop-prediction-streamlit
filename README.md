@@ -24,6 +24,9 @@ This project is a **Streamlit-based web application** that intelligently predict
 - **NumPy**
 
 ---
+## 🚀 Live Demo
+
+You can try the live application here: [Crop Prediction App](https://crop-prediction-app-wcpu9ejg3zjjtjdvmwbauj.streamlit.app/)
 
 
 ## 🔧 Installation
